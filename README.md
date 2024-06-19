@@ -14,6 +14,7 @@ Formulário de Contato: Um formulário simples para que os visitantes possam ent
 Telefone para Contato: Adicione o número de telefone para que os visitantes possam ligar diretamente para a nutricionista.
 
 Como Executar o Projeto
+
 Clone este repositório.
 Instale as dependências com npm install.
 Execute o projeto com npm start.
